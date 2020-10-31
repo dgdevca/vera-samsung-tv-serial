@@ -1,1 +1,1 @@
-# vera
+# vera samsung tv serial
