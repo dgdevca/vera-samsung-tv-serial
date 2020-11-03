@@ -1,0 +1,3 @@
+params =  ...
+
+print("samsung-tv-serial: events_handling")
